@@ -1,0 +1,23 @@
+.custom-box {
+border: 2px solid #4CAF50;
+padding: 20px; 
+height: 100px;
+display: flex;
+justify-content: center;
+align-items: center; 
+}
+
+
+.box-content {
+
+
+text-align: center;
+}
+.icon {
+font-size: 10px;
+color: #3273dc;
+}
+
+
+
+
